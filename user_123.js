@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        web loader
+// @name         web loader
 // @namespace    http://your.homepage/
 // @version      1.0
 // @description  For the fucking website
-// @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+// @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @author       fungyuen
 // @match        http://f9c9eb26.nat2.s100.vip/*
 // @match        http://lhzqls.viphk.ngrok.org/*
